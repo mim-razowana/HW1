@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(223, 220, 220);
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+header{
+    background-color:rgb(47, 45, 45);
+    padding: 5px 0px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+ul{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 20px;
+    
+    
+}
+.my_button{
+    border: 1px solid gb(24, 122, 160);
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: rgb(24, 122, 160);
+    margin-right: 35px;
+}
+.nav2{
+    margin-top: 70px;
+    background-color:rgb(47, 45, 45);
+    padding: 5px 0px;
+}
+.navbar-2{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 20px;
+}
+.my_button2{
+    border: 1px solid gb(24, 122, 160);
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: rgb(24, 122, 160);
+    margin-right: 35px;
+  
+}
+
+.nav3{
+    margin-top: 10px;
+    background-color:rgb(47, 45, 45);
+    padding: 5px 0px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.navbar-3{
+    display: flex;
+    align-items:center;
+    justify-content: start;
+    gap: 20px;
+}
+.my_button3{
+    border: 1px solid gb(24, 122, 160);
+    border-radius: 20px;
+    padding: 5px 20px;
+    background-color: rgb(24, 122, 160);
+
+}
+
+.p{
+   padding-right: 550px;
+}
